@@ -77,7 +77,7 @@ SOFTEER BOOTCAMP 4th - Mini Project
 ```
 
 - crawling_recent_one_yaer.ipynb
-    - 학교알리미(https://www.schoolinfo.go.kr/Main.do)에서 정보를 수집
+    - 학교알리미( https://www.schoolinfo.go.kr/Main.do )에서 정보를 수집
     - 특정 학교의 가장 최근 1년의 학교폭력 심의 결과를 크롤링
     - 정보 수집이 완료된 학교는 done.txt에 로그로 저장
     - 해당 정보를 공시한 페이지의 전체 html을 파일형식(XX학교_recent_one_year.html)로 저장
