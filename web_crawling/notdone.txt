@@ -1,0 +1,1431 @@
+#####선화예술중학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[2]/div/div[2]/ul/li[14]/a"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104b86a0c chromedriver + 4385292
+1   chromedriver                        0x0000000104b7f318 chromedriver + 4354840
+2   chromedriver                        0x000000010479cb0c chromedriver + 281356
+3   chromedriver                        0x00000001047df2f8 chromedriver + 553720
+4   chromedriver                        0x0000000104817d24 chromedriver + 785700
+5   chromedriver                        0x00000001047d3eec chromedriver + 507628
+6   chromedriver                        0x00000001047d48c4 chromedriver + 510148
+7   chromedriver                        0x0000000104b4e3c8 chromedriver + 4154312
+8   chromedriver                        0x0000000104b52e2c chromedriver + 4173356
+9   chromedriver                        0x0000000104b33f84 chromedriver + 4046724
+10  chromedriver                        0x0000000104b53718 chromedriver + 4175640
+11  chromedriver                        0x0000000104b26f44 chromedriver + 3993412
+12  chromedriver                        0x0000000104b711a8 chromedriver + 4297128
+13  chromedriver                        0x0000000104b71324 chromedriver + 4297508
+14  chromedriver                        0x0000000104b7ef10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####서울숭신초등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div/div[1]/p/a"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010317ea0c chromedriver + 4385292
+1   chromedriver                        0x0000000103177318 chromedriver + 4354840
+2   chromedriver                        0x0000000102d94b0c chromedriver + 281356
+3   chromedriver                        0x0000000102dd72f8 chromedriver + 553720
+4   chromedriver                        0x0000000102e0fd24 chromedriver + 785700
+5   chromedriver                        0x0000000102dcbeec chromedriver + 507628
+6   chromedriver                        0x0000000102dcc8c4 chromedriver + 510148
+7   chromedriver                        0x00000001031463c8 chromedriver + 4154312
+8   chromedriver                        0x000000010314ae2c chromedriver + 4173356
+9   chromedriver                        0x000000010312bf84 chromedriver + 4046724
+10  chromedriver                        0x000000010314b718 chromedriver + 4175640
+11  chromedriver                        0x000000010311ef44 chromedriver + 3993412
+12  chromedriver                        0x00000001031691a8 chromedriver + 4297128
+13  chromedriver                        0x0000000103169324 chromedriver + 4297508
+14  chromedriver                        0x0000000103176f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####성수중학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102c5aa0c chromedriver + 4385292
+1   chromedriver                        0x0000000102c53318 chromedriver + 4354840
+2   chromedriver                        0x0000000102870b0c chromedriver + 281356
+3   chromedriver                        0x00000001028b32f8 chromedriver + 553720
+4   chromedriver                        0x00000001028ebd24 chromedriver + 785700
+5   chromedriver                        0x00000001028a7eec chromedriver + 507628
+6   chromedriver                        0x00000001028a88c4 chromedriver + 510148
+7   chromedriver                        0x0000000102c223c8 chromedriver + 4154312
+8   chromedriver                        0x0000000102c26e2c chromedriver + 4173356
+9   chromedriver                        0x0000000102c07f84 chromedriver + 4046724
+10  chromedriver                        0x0000000102c27718 chromedriver + 4175640
+11  chromedriver                        0x0000000102bfaf44 chromedriver + 3993412
+12  chromedriver                        0x0000000102c451a8 chromedriver + 4297128
+13  chromedriver                        0x0000000102c45324 chromedriver + 4297508
+14  chromedriver                        0x0000000102c52f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####마장중학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100906a0c chromedriver + 4385292
+1   chromedriver                        0x00000001008ff318 chromedriver + 4354840
+2   chromedriver                        0x000000010051cb0c chromedriver + 281356
+3   chromedriver                        0x000000010055f2f8 chromedriver + 553720
+4   chromedriver                        0x0000000100597d24 chromedriver + 785700
+5   chromedriver                        0x0000000100553eec chromedriver + 507628
+6   chromedriver                        0x00000001005548c4 chromedriver + 510148
+7   chromedriver                        0x00000001008ce3c8 chromedriver + 4154312
+8   chromedriver                        0x00000001008d2e2c chromedriver + 4173356
+9   chromedriver                        0x00000001008b3f84 chromedriver + 4046724
+10  chromedriver                        0x00000001008d3718 chromedriver + 4175640
+11  chromedriver                        0x00000001008a6f44 chromedriver + 3993412
+12  chromedriver                        0x00000001008f11a8 chromedriver + 4297128
+13  chromedriver                        0x00000001008f1324 chromedriver + 4297508
+14  chromedriver                        0x00000001008fef10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####경일중학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100692a0c chromedriver + 4385292
+1   chromedriver                        0x000000010068b318 chromedriver + 4354840
+2   chromedriver                        0x00000001002a8b0c chromedriver + 281356
+3   chromedriver                        0x00000001002eb2f8 chromedriver + 553720
+4   chromedriver                        0x0000000100323d24 chromedriver + 785700
+5   chromedriver                        0x00000001002dfeec chromedriver + 507628
+6   chromedriver                        0x00000001002e08c4 chromedriver + 510148
+7   chromedriver                        0x000000010065a3c8 chromedriver + 4154312
+8   chromedriver                        0x000000010065ee2c chromedriver + 4173356
+9   chromedriver                        0x000000010063ff84 chromedriver + 4046724
+10  chromedriver                        0x000000010065f718 chromedriver + 4175640
+11  chromedriver                        0x0000000100632f44 chromedriver + 3993412
+12  chromedriver                        0x000000010067d1a8 chromedriver + 4297128
+13  chromedriver                        0x000000010067d324 chromedriver + 4297508
+14  chromedriver                        0x000000010068af10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####한양초등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010305ea0c chromedriver + 4385292
+1   chromedriver                        0x0000000103057318 chromedriver + 4354840
+2   chromedriver                        0x0000000102c74b0c chromedriver + 281356
+3   chromedriver                        0x0000000102cb72f8 chromedriver + 553720
+4   chromedriver                        0x0000000102cefd24 chromedriver + 785700
+5   chromedriver                        0x0000000102cabeec chromedriver + 507628
+6   chromedriver                        0x0000000102cac8c4 chromedriver + 510148
+7   chromedriver                        0x00000001030263c8 chromedriver + 4154312
+8   chromedriver                        0x000000010302ae2c chromedriver + 4173356
+9   chromedriver                        0x000000010300bf84 chromedriver + 4046724
+10  chromedriver                        0x000000010302b718 chromedriver + 4175640
+11  chromedriver                        0x0000000102ffef44 chromedriver + 3993412
+12  chromedriver                        0x00000001030491a8 chromedriver + 4297128
+13  chromedriver                        0x0000000103049324 chromedriver + 4297508
+14  chromedriver                        0x0000000103056f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####서울옥정초등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102ad6a0c chromedriver + 4385292
+1   chromedriver                        0x0000000102acf318 chromedriver + 4354840
+2   chromedriver                        0x00000001026ecb0c chromedriver + 281356
+3   chromedriver                        0x000000010272f2f8 chromedriver + 553720
+4   chromedriver                        0x0000000102767d24 chromedriver + 785700
+5   chromedriver                        0x0000000102723eec chromedriver + 507628
+6   chromedriver                        0x00000001027248c4 chromedriver + 510148
+7   chromedriver                        0x0000000102a9e3c8 chromedriver + 4154312
+8   chromedriver                        0x0000000102aa2e2c chromedriver + 4173356
+9   chromedriver                        0x0000000102a83f84 chromedriver + 4046724
+10  chromedriver                        0x0000000102aa3718 chromedriver + 4175640
+11  chromedriver                        0x0000000102a76f44 chromedriver + 3993412
+12  chromedriver                        0x0000000102ac11a8 chromedriver + 4297128
+13  chromedriver                        0x0000000102ac1324 chromedriver + 4297508
+14  chromedriver                        0x0000000102acef10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####서울마장초등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000103196a0c chromedriver + 4385292
+1   chromedriver                        0x000000010318f318 chromedriver + 4354840
+2   chromedriver                        0x0000000102dacb0c chromedriver + 281356
+3   chromedriver                        0x0000000102def2f8 chromedriver + 553720
+4   chromedriver                        0x0000000102e27d24 chromedriver + 785700
+5   chromedriver                        0x0000000102de3eec chromedriver + 507628
+6   chromedriver                        0x0000000102de48c4 chromedriver + 510148
+7   chromedriver                        0x000000010315e3c8 chromedriver + 4154312
+8   chromedriver                        0x0000000103162e2c chromedriver + 4173356
+9   chromedriver                        0x0000000103143f84 chromedriver + 4046724
+10  chromedriver                        0x0000000103163718 chromedriver + 4175640
+11  chromedriver                        0x0000000103136f44 chromedriver + 3993412
+12  chromedriver                        0x00000001031811a8 chromedriver + 4297128
+13  chromedriver                        0x0000000103181324 chromedriver + 4297508
+14  chromedriver                        0x000000010318ef10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####서울문영여자중학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001011dea0c chromedriver + 4385292
+1   chromedriver                        0x00000001011d7318 chromedriver + 4354840
+2   chromedriver                        0x0000000100df4b0c chromedriver + 281356
+3   chromedriver                        0x0000000100e372f8 chromedriver + 553720
+4   chromedriver                        0x0000000100e6fd24 chromedriver + 785700
+5   chromedriver                        0x0000000100e2beec chromedriver + 507628
+6   chromedriver                        0x0000000100e2c8c4 chromedriver + 510148
+7   chromedriver                        0x00000001011a63c8 chromedriver + 4154312
+8   chromedriver                        0x00000001011aae2c chromedriver + 4173356
+9   chromedriver                        0x000000010118bf84 chromedriver + 4046724
+10  chromedriver                        0x00000001011ab718 chromedriver + 4175640
+11  chromedriver                        0x000000010117ef44 chromedriver + 3993412
+12  chromedriver                        0x00000001011c91a8 chromedriver + 4297128
+13  chromedriver                        0x00000001011c9324 chromedriver + 4297508
+14  chromedriver                        0x00000001011d6f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####광신중학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104742a0c chromedriver + 4385292
+1   chromedriver                        0x000000010473b318 chromedriver + 4354840
+2   chromedriver                        0x0000000104358b0c chromedriver + 281356
+3   chromedriver                        0x000000010439b2f8 chromedriver + 553720
+4   chromedriver                        0x00000001043d3d24 chromedriver + 785700
+5   chromedriver                        0x000000010438feec chromedriver + 507628
+6   chromedriver                        0x00000001043908c4 chromedriver + 510148
+7   chromedriver                        0x000000010470a3c8 chromedriver + 4154312
+8   chromedriver                        0x000000010470ee2c chromedriver + 4173356
+9   chromedriver                        0x00000001046eff84 chromedriver + 4046724
+10  chromedriver                        0x000000010470f718 chromedriver + 4175640
+11  chromedriver                        0x00000001046e2f44 chromedriver + 3993412
+12  chromedriver                        0x000000010472d1a8 chromedriver + 4297128
+13  chromedriver                        0x000000010472d324 chromedriver + 4297508
+14  chromedriver                        0x000000010473af10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####서울행림초등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100d2ea0c chromedriver + 4385292
+1   chromedriver                        0x0000000100d27318 chromedriver + 4354840
+2   chromedriver                        0x0000000100944b0c chromedriver + 281356
+3   chromedriver                        0x00000001009872f8 chromedriver + 553720
+4   chromedriver                        0x00000001009bfd24 chromedriver + 785700
+5   chromedriver                        0x000000010097beec chromedriver + 507628
+6   chromedriver                        0x000000010097c8c4 chromedriver + 510148
+7   chromedriver                        0x0000000100cf63c8 chromedriver + 4154312
+8   chromedriver                        0x0000000100cfae2c chromedriver + 4173356
+9   chromedriver                        0x0000000100cdbf84 chromedriver + 4046724
+10  chromedriver                        0x0000000100cfb718 chromedriver + 4175640
+11  chromedriver                        0x0000000100ccef44 chromedriver + 3993412
+12  chromedriver                        0x0000000100d191a8 chromedriver + 4297128
+13  chromedriver                        0x0000000100d19324 chromedriver + 4297508
+14  chromedriver                        0x0000000100d26f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####서울신봉초등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102996a0c chromedriver + 4385292
+1   chromedriver                        0x000000010298f318 chromedriver + 4354840
+2   chromedriver                        0x00000001025acb0c chromedriver + 281356
+3   chromedriver                        0x00000001025ef2f8 chromedriver + 553720
+4   chromedriver                        0x0000000102627d24 chromedriver + 785700
+5   chromedriver                        0x00000001025e3eec chromedriver + 507628
+6   chromedriver                        0x00000001025e48c4 chromedriver + 510148
+7   chromedriver                        0x000000010295e3c8 chromedriver + 4154312
+8   chromedriver                        0x0000000102962e2c chromedriver + 4173356
+9   chromedriver                        0x0000000102943f84 chromedriver + 4046724
+10  chromedriver                        0x0000000102963718 chromedriver + 4175640
+11  chromedriver                        0x0000000102936f44 chromedriver + 3993412
+12  chromedriver                        0x00000001029811a8 chromedriver + 4297128
+13  chromedriver                        0x0000000102981324 chromedriver + 4297508
+14  chromedriver                        0x000000010298ef10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####서울신길초등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100bd2a0c chromedriver + 4385292
+1   chromedriver                        0x0000000100bcb318 chromedriver + 4354840
+2   chromedriver                        0x00000001007e8b0c chromedriver + 281356
+3   chromedriver                        0x000000010082b2f8 chromedriver + 553720
+4   chromedriver                        0x0000000100863d24 chromedriver + 785700
+5   chromedriver                        0x000000010081feec chromedriver + 507628
+6   chromedriver                        0x00000001008208c4 chromedriver + 510148
+7   chromedriver                        0x0000000100b9a3c8 chromedriver + 4154312
+8   chromedriver                        0x0000000100b9ee2c chromedriver + 4173356
+9   chromedriver                        0x0000000100b7ff84 chromedriver + 4046724
+10  chromedriver                        0x0000000100b9f718 chromedriver + 4175640
+11  chromedriver                        0x0000000100b72f44 chromedriver + 3993412
+12  chromedriver                        0x0000000100bbd1a8 chromedriver + 4297128
+13  chromedriver                        0x0000000100bbd324 chromedriver + 4297508
+14  chromedriver                        0x0000000100bcaf10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8#####16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div/div[1]/p/a"}
+
+#####16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div/div[1]/p/a"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001047d2a0c chromedriver + 4385292
+1   chromedriver                        0x00000001047cb318 chromedriver + 4354840
+2   chromedriver                        0x00000001043e8b0c chromedriver + 281356
+3   chromedriver                        0x000000010442b2f8 chromedriver + 553720
+4   chromedriver                        0x0000000104463d24 chromedriver + 785700
+5   chromedriver                        0x000000010441feec chromedriver + 507628
+6   chromedriver                        0x00000001044208c4 chromedriver + 510148
+7   chromedriver                        0x000000010479a3c8 chromedriver + 4154312
+8   chromedriver                        0x000000010479ee2c chromedriver + 4173356
+9   chromedriver                        0x000000010477ff84 chromedriver + 4046724
+10  chromedriver                        0x000000010479f718 chromedriver + 4175640
+11  chromedriver                        0x0000000104772f44 chromedriver + 3993412
+12  chromedriver                        0x00000001047bd1a8 chromedriver + 4297128
+13  chromedriver                        0x00000001047bd324 chromedriver + 4297508
+14  chromedriver                        0x00000001047caf10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div/div[1]/p/a"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010088aa0c chromedriver + 4385292
+1   chromedriver                        0x0000000100883318 chromedriver + 4354840
+2   chromedriver                        0x00000001004a0b0c chromedriver + 281356
+3   chromedriver                        0x00000001004e32f8 chromedriver + 553720
+4   chromedriver                        0x000000010051bd24 chromedriver + 785700
+5   chromedriver                        0x00000001004d7eec chromedriver + 507628
+6   chromedriver                        0x00000001004d88c4 chromedriver + 510148
+7   chromedriver                        0x00000001008523c8 chromedriver + 4154312
+8   chromedriver                        0x0000000100856e2c chromedriver + 4173356
+9   chromedriver                        0x0000000100837f84 chromedriver + 4046724
+10  chromedriver                        0x0000000100857718 chromedriver + 4175640
+11  chromedriver                        0x000000010082af44 chromedriver + 3993412
+12  chromedriver                        0x00000001008751a8 chromedriver + 4297128
+13  chromedriver                        0x0000000100875324 chromedriver + 4297508
+14  chromedriver                        0x0000000100882f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####지구촌학교 고등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div/div[1]/p/a"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100766a0c chromedriver + 4385292
+1   chromedriver                        0x000000010075f318 chromedriver + 4354840
+2   chromedriver                        0x000000010037cb0c chromedriver + 281356
+3   chromedriver                        0x00000001003bf2f8 chromedriver + 553720
+4   chromedriver                        0x00000001003f7d24 chromedriver + 785700
+5   chromedriver                        0x00000001003b3eec chromedriver + 507628
+6   chromedriver                        0x00000001003b48c4 chromedriver + 510148
+7   chromedriver                        0x000000010072e3c8 chromedriver + 4154312
+8   chromedriver                        0x0000000100732e2c chromedriver + 4173356
+9   chromedriver                        0x0000000100713f84 chromedriver + 4046724
+10  chromedriver                        0x0000000100733718 chromedriver + 4175640
+11  chromedriver                        0x0000000100706f44 chromedriver + 3993412
+12  chromedriver                        0x00000001007511a8 chromedriver + 4297128
+13  chromedriver                        0x0000000100751324 chromedriver + 4297508
+14  chromedriver                        0x000000010075ef10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####지구촌학교 고등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div/div[1]/p/a"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000103046a0c chromedriver + 4385292
+1   chromedriver                        0x000000010303f318 chromedriver + 4354840
+2   chromedriver                        0x0000000102c5cb0c chromedriver + 281356
+3   chromedriver                        0x0000000102c9f2f8 chromedriver + 553720
+4   chromedriver                        0x0000000102cd7d24 chromedriver + 785700
+5   chromedriver                        0x0000000102c93eec chromedriver + 507628
+6   chromedriver                        0x0000000102c948c4 chromedriver + 510148
+7   chromedriver                        0x000000010300e3c8 chromedriver + 4154312
+8   chromedriver                        0x0000000103012e2c chromedriver + 4173356
+9   chromedriver                        0x0000000102ff3f84 chromedriver + 4046724
+10  chromedriver                        0x0000000103013718 chromedriver + 4175640
+11  chromedriver                        0x0000000102fe6f44 chromedriver + 3993412
+12  chromedriver                        0x00000001030311a8 chromedriver + 4297128
+13  chromedriver                        0x0000000103031324 chromedriver + 4297508
+14  chromedriver                        0x000000010303ef10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####자운고등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div/div[1]/p/a"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102c06a0c chromedriver + 4385292
+1   chromedriver                        0x0000000102bff318 chromedriver + 4354840
+2   chromedriver                        0x000000010281cb0c chromedriver + 281356
+3   chromedriver                        0x000000010285f2f8 chromedriver + 553720
+4   chromedriver                        0x0000000102897d24 chromedriver + 785700
+5   chromedriver                        0x0000000102853eec chromedriver + 507628
+6   chromedriver                        0x00000001028548c4 chromedriver + 510148
+7   chromedriver                        0x0000000102bce3c8 chromedriver + 4154312
+8   chromedriver                        0x0000000102bd2e2c chromedriver + 4173356
+9   chromedriver                        0x0000000102bb3f84 chromedriver + 4046724
+10  chromedriver                        0x0000000102bd3718 chromedriver + 4175640
+11  chromedriver                        0x0000000102ba6f44 chromedriver + 3993412
+12  chromedriver                        0x0000000102bf11a8 chromedriver + 4297128
+13  chromedriver                        0x0000000102bf1324 chromedriver + 4297508
+14  chromedriver                        0x0000000102bfef10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####학력인정 신동신정보산업고등학교(2년제) --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div/div[1]/p/a"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010509ea0c chromedriver + 4385292
+1   chromedriver                        0x0000000105097318 chromedriver + 4354840
+2   chromedriver                        0x0000000104cb4b0c chromedriver + 281356
+3   chromedriver                        0x0000000104cf72f8 chromedriver + 553720
+4   chromedriver                        0x0000000104d2fd24 chromedriver + 785700
+5   chromedriver                        0x0000000104cebeec chromedriver + 507628
+6   chromedriver                        0x0000000104cec8c4 chromedriver + 510148
+7   chromedriver                        0x00000001050663c8 chromedriver + 4154312
+8   chromedriver                        0x000000010506ae2c chromedriver + 4173356
+9   chromedriver                        0x000000010504bf84 chromedriver + 4046724
+10  chromedriver                        0x000000010506b718 chromedriver + 4175640
+11  chromedriver                        0x000000010503ef44 chromedriver + 3993412
+12  chromedriver                        0x00000001050891a8 chromedriver + 4297128
+13  chromedriver                        0x0000000105089324 chromedriver + 4297508
+14  chromedriver                        0x0000000105096f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####미래산업과학고등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000103152a0c chromedriver + 4385292
+1   chromedriver                        0x000000010314b318 chromedriver + 4354840
+2   chromedriver                        0x0000000102d68b0c chromedriver + 281356
+3   chromedriver                        0x0000000102dab2f8 chromedriver + 553720
+4   chromedriver                        0x0000000102de3d24 chromedriver + 785700
+5   chromedriver                        0x0000000102d9feec chromedriver + 507628
+6   chromedriver                        0x0000000102da08c4 chromedriver + 510148
+7   chromedriver                        0x000000010311a3c8 chromedriver + 4154312
+8   chromedriver                        0x000000010311ee2c chromedriver + 4173356
+9   chromedriver                        0x00000001030fff84 chromedriver + 4046724
+10  chromedriver                        0x000000010311f718 chromedriver + 4175640
+11  chromedriver                        0x00000001030f2f44 chromedriver + 3993412
+12  chromedriver                        0x000000010313d1a8 chromedriver + 4297128
+13  chromedriver                        0x000000010313d324 chromedriver + 4297508
+14  chromedriver                        0x000000010314af10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####수도여자고등학교부설방송통신고등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001050aea0c chromedriver + 4385292
+1   chromedriver                        0x00000001050a7318 chromedriver + 4354840
+2   chromedriver                        0x0000000104cc4b0c chromedriver + 281356
+3   chromedriver                        0x0000000104d072f8 chromedriver + 553720
+4   chromedriver                        0x0000000104d3fd24 chromedriver + 785700
+5   chromedriver                        0x0000000104cfbeec chromedriver + 507628
+6   chromedriver                        0x0000000104cfc8c4 chromedriver + 510148
+7   chromedriver                        0x00000001050763c8 chromedriver + 4154312
+8   chromedriver                        0x000000010507ae2c chromedriver + 4173356
+9   chromedriver                        0x000000010505bf84 chromedriver + 4046724
+10  chromedriver                        0x000000010507b718 chromedriver + 4175640
+11  chromedriver                        0x000000010504ef44 chromedriver + 3993412
+12  chromedriver                        0x00000001050991a8 chromedriver + 4297128
+13  chromedriver                        0x0000000105099324 chromedriver + 4297508
+14  chromedriver                        0x00000001050a6f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####경복고등학교부설방송통신고등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100faea0c chromedriver + 4385292
+1   chromedriver                        0x0000000100fa7318 chromedriver + 4354840
+2   chromedriver                        0x0000000100bc4b0c chromedriver + 281356
+3   chromedriver                        0x0000000100c072f8 chromedriver + 553720
+4   chromedriver                        0x0000000100c3fd24 chromedriver + 785700
+5   chromedriver                        0x0000000100bfbeec chromedriver + 507628
+6   chromedriver                        0x0000000100bfc8c4 chromedriver + 510148
+7   chromedriver                        0x0000000100f763c8 chromedriver + 4154312
+8   chromedriver                        0x0000000100f7ae2c chromedriver + 4173356
+9   chromedriver                        0x0000000100f5bf84 chromedriver + 4046724
+10  chromedriver                        0x0000000100f7b718 chromedriver + 4175640
+11  chromedriver                        0x0000000100f4ef44 chromedriver + 3993412
+12  chromedriver                        0x0000000100f991a8 chromedriver + 4297128
+13  chromedriver                        0x0000000100f99324 chromedriver + 4297508
+14  chromedriver                        0x0000000100fa6f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####학력인정 청암고등학교(2년제) --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div/div[1]/p/a"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001050baa0c chromedriver + 4385292
+1   chromedriver                        0x00000001050b3318 chromedriver + 4354840
+2   chromedriver                        0x0000000104cd0b0c chromedriver + 281356
+3   chromedriver                        0x0000000104d132f8 chromedriver + 553720
+4   chromedriver                        0x0000000104d4bd24 chromedriver + 785700
+5   chromedriver                        0x0000000104d07eec chromedriver + 507628
+6   chromedriver                        0x0000000104d088c4 chromedriver + 510148
+7   chromedriver                        0x00000001050823c8 chromedriver + 4154312
+8   chromedriver                        0x0000000105086e2c chromedriver + 4173356
+9   chromedriver                        0x0000000105067f84 chromedriver + 4046724
+10  chromedriver                        0x0000000105087718 chromedriver + 4175640
+11  chromedriver                        0x000000010505af44 chromedriver + 3993412
+12  chromedriver                        0x00000001050a51a8 chromedriver + 4297128
+13  chromedriver                        0x00000001050a5324 chromedriver + 4297508
+14  chromedriver                        0x00000001050b2f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####명덕외국어고등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102ba6a0c chromedriver + 4385292
+1   chromedriver                        0x0000000102b9f318 chromedriver + 4354840
+2   chromedriver                        0x00000001027bcb0c chromedriver + 281356
+3   chromedriver                        0x00000001027ff2f8 chromedriver + 553720
+4   chromedriver                        0x0000000102837d24 chromedriver + 785700
+5   chromedriver                        0x00000001027f3eec chromedriver + 507628
+6   chromedriver                        0x00000001027f48c4 chromedriver + 510148
+7   chromedriver                        0x0000000102b6e3c8 chromedriver + 4154312
+8   chromedriver                        0x0000000102b72e2c chromedriver + 4173356
+9   chromedriver                        0x0000000102b53f84 chromedriver + 4046724
+10  chromedriver                        0x0000000102b73718 chromedriver + 4175640
+11  chromedriver                        0x0000000102b46f44 chromedriver + 3993412
+12  chromedriver                        0x0000000102b911a8 chromedriver + 4297128
+13  chromedriver                        0x0000000102b91324 chromedriver + 4297508
+14  chromedriver                        0x0000000102b9ef10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####학력인정 정암미용고등학교(2년제) --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div/div[1]/p/a"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104ba6a0c chromedriver + 4385292
+1   chromedriver                        0x0000000104b9f318 chromedriver + 4354840
+2   chromedriver                        0x00000001047bcb0c chromedriver + 281356
+3   chromedriver                        0x00000001047ff2f8 chromedriver + 553720
+4   chromedriver                        0x0000000104837d24 chromedriver + 785700
+5   chromedriver                        0x00000001047f3eec chromedriver + 507628
+6   chromedriver                        0x00000001047f48c4 chromedriver + 510148
+7   chromedriver                        0x0000000104b6e3c8 chromedriver + 4154312
+8   chromedriver                        0x0000000104b72e2c chromedriver + 4173356
+9   chromedriver                        0x0000000104b53f84 chromedriver + 4046724
+10  chromedriver                        0x0000000104b73718 chromedriver + 4175640
+11  chromedriver                        0x0000000104b46f44 chromedriver + 3993412
+12  chromedriver                        0x0000000104b911a8 chromedriver + 4297128
+13  chromedriver                        0x0000000104b91324 chromedriver + 4297508
+14  chromedriver                        0x0000000104b9ef10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####학력인정 일성여자고등학교(2년제) --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div/div[1]/p/a"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010054ea0c chromedriver + 4385292
+1   chromedriver                        0x0000000100547318 chromedriver + 4354840
+2   chromedriver                        0x0000000100164b0c chromedriver + 281356
+3   chromedriver                        0x00000001001a72f8 chromedriver + 553720
+4   chromedriver                        0x00000001001dfd24 chromedriver + 785700
+5   chromedriver                        0x000000010019beec chromedriver + 507628
+6   chromedriver                        0x000000010019c8c4 chromedriver + 510148
+7   chromedriver                        0x00000001005163c8 chromedriver + 4154312
+8   chromedriver                        0x000000010051ae2c chromedriver + 4173356
+9   chromedriver                        0x00000001004fbf84 chromedriver + 4046724
+10  chromedriver                        0x000000010051b718 chromedriver + 4175640
+11  chromedriver                        0x00000001004eef44 chromedriver + 3993412
+12  chromedriver                        0x00000001005391a8 chromedriver + 4297128
+13  chromedriver                        0x0000000100539324 chromedriver + 4297508
+14  chromedriver                        0x0000000100546f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####학력인정 신동신중.정보산업고등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div/div[1]/p/a"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102d2ea0c chromedriver + 4385292
+1   chromedriver                        0x0000000102d27318 chromedriver + 4354840
+2   chromedriver                        0x0000000102944b0c chromedriver + 281356
+3   chromedriver                        0x00000001029872f8 chromedriver + 553720
+4   chromedriver                        0x00000001029bfd24 chromedriver + 785700
+5   chromedriver                        0x000000010297beec chromedriver + 507628
+6   chromedriver                        0x000000010297c8c4 chromedriver + 510148
+7   chromedriver                        0x0000000102cf63c8 chromedriver + 4154312
+8   chromedriver                        0x0000000102cfae2c chromedriver + 4173356
+9   chromedriver                        0x0000000102cdbf84 chromedriver + 4046724
+10  chromedriver                        0x0000000102cfb718 chromedriver + 4175640
+11  chromedriver                        0x0000000102ccef44 chromedriver + 3993412
+12  chromedriver                        0x0000000102d191a8 chromedriver + 4297128
+13  chromedriver                        0x0000000102d19324 chromedriver + 4297508
+14  chromedriver                        0x0000000102d26f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####중동고등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010303ea0c chromedriver + 4385292
+1   chromedriver                        0x0000000103037318 chromedriver + 4354840
+2   chromedriver                        0x0000000102c54b0c chromedriver + 281356
+3   chromedriver                        0x0000000102c972f8 chromedriver + 553720
+4   chromedriver                        0x0000000102ccfd24 chromedriver + 785700
+5   chromedriver                        0x0000000102c8beec chromedriver + 507628
+6   chromedriver                        0x0000000102c8c8c4 chromedriver + 510148
+7   chromedriver                        0x00000001030063c8 chromedriver + 4154312
+8   chromedriver                        0x000000010300ae2c chromedriver + 4173356
+9   chromedriver                        0x0000000102febf84 chromedriver + 4046724
+10  chromedriver                        0x000000010300b718 chromedriver + 4175640
+11  chromedriver                        0x0000000102fdef44 chromedriver + 3993412
+12  chromedriver                        0x00000001030291a8 chromedriver + 4297128
+13  chromedriver                        0x0000000103029324 chromedriver + 4297508
+14  chromedriver                        0x0000000103036f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####학력인정 청량정보고등학교(2년제) --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div/div[1]/p/a"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001011c6a0c chromedriver + 4385292
+1   chromedriver                        0x00000001011bf318 chromedriver + 4354840
+2   chromedriver                        0x0000000100ddcb0c chromedriver + 281356
+3   chromedriver                        0x0000000100e1f2f8 chromedriver + 553720
+4   chromedriver                        0x0000000100e57d24 chromedriver + 785700
+5   chromedriver                        0x0000000100e13eec chromedriver + 507628
+6   chromedriver                        0x0000000100e148c4 chromedriver + 510148
+7   chromedriver                        0x000000010118e3c8 chromedriver + 4154312
+8   chromedriver                        0x0000000101192e2c chromedriver + 4173356
+9   chromedriver                        0x0000000101173f84 chromedriver + 4046724
+10  chromedriver                        0x0000000101193718 chromedriver + 4175640
+11  chromedriver                        0x0000000101166f44 chromedriver + 3993412
+12  chromedriver                        0x00000001011b11a8 chromedriver + 4297128
+13  chromedriver                        0x00000001011b1324 chromedriver + 4297508
+14  chromedriver                        0x00000001011bef10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####환일고등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001030fea0c chromedriver + 4385292
+1   chromedriver                        0x00000001030f7318 chromedriver + 4354840
+2   chromedriver                        0x0000000102d14b0c chromedriver + 281356
+3   chromedriver                        0x0000000102d572f8 chromedriver + 553720
+4   chromedriver                        0x0000000102d8fd24 chromedriver + 785700
+5   chromedriver                        0x0000000102d4beec chromedriver + 507628
+6   chromedriver                        0x0000000102d4c8c4 chromedriver + 510148
+7   chromedriver                        0x00000001030c63c8 chromedriver + 4154312
+8   chromedriver                        0x00000001030cae2c chromedriver + 4173356
+9   chromedriver                        0x00000001030abf84 chromedriver + 4046724
+10  chromedriver                        0x00000001030cb718 chromedriver + 4175640
+11  chromedriver                        0x000000010309ef44 chromedriver + 3993412
+12  chromedriver                        0x00000001030e91a8 chromedriver + 4297128
+13  chromedriver                        0x00000001030e9324 chromedriver + 4297508
+14  chromedriver                        0x00000001030f6f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####경기여자고등학교부설방송통신고등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010250aa0c chromedriver + 4385292
+1   chromedriver                        0x0000000102503318 chromedriver + 4354840
+2   chromedriver                        0x0000000102120b0c chromedriver + 281356
+3   chromedriver                        0x00000001021632f8 chromedriver + 553720
+4   chromedriver                        0x000000010219bd24 chromedriver + 785700
+5   chromedriver                        0x0000000102157eec chromedriver + 507628
+6   chromedriver                        0x00000001021588c4 chromedriver + 510148
+7   chromedriver                        0x00000001024d23c8 chromedriver + 4154312
+8   chromedriver                        0x00000001024d6e2c chromedriver + 4173356
+9   chromedriver                        0x00000001024b7f84 chromedriver + 4046724
+10  chromedriver                        0x00000001024d7718 chromedriver + 4175640
+11  chromedriver                        0x00000001024aaf44 chromedriver + 3993412
+12  chromedriver                        0x00000001024f51a8 chromedriver + 4297128
+13  chromedriver                        0x00000001024f5324 chromedriver + 4297508
+14  chromedriver                        0x0000000102502f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####성신여자고등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104fe2a0c chromedriver + 4385292
+1   chromedriver                        0x0000000104fdb318 chromedriver + 4354840
+2   chromedriver                        0x0000000104bf8b0c chromedriver + 281356
+3   chromedriver                        0x0000000104c3b2f8 chromedriver + 553720
+4   chromedriver                        0x0000000104c73d24 chromedriver + 785700
+5   chromedriver                        0x0000000104c2feec chromedriver + 507628
+6   chromedriver                        0x0000000104c308c4 chromedriver + 510148
+7   chromedriver                        0x0000000104faa3c8 chromedriver + 4154312
+8   chromedriver                        0x0000000104faee2c chromedriver + 4173356
+9   chromedriver                        0x0000000104f8ff84 chromedriver + 4046724
+10  chromedriver                        0x0000000104faf718 chromedriver + 4175640
+11  chromedriver                        0x0000000104f82f44 chromedriver + 3993412
+12  chromedriver                        0x0000000104fcd1a8 chromedriver + 4297128
+13  chromedriver                        0x0000000104fcd324 chromedriver + 4297508
+14  chromedriver                        0x0000000104fdaf10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000019aa77fa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000019aa72da0 thread_start + 8
+
+#####상일중학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div/div[1]/p/a"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001011cea0c chromedriver + 4385292
+1   chromedriver                        0x00000001011c7318 chromedriver + 4354840
+2   chromedriver                        0x0000000100de4b0c chromedriver + 281356
+3   chromedriver                        0x0000000100e272f8 chromedriver + 553720
+4   chromedriver                        0x0000000100e5fd24 chromedriver + 785700
+5   chromedriver                        0x0000000100e1beec chromedriver + 507628
+6   chromedriver                        0x0000000100e1c8c4 chromedriver + 510148
+7   chromedriver                        0x00000001011963c8 chromedriver + 4154312
+8   chromedriver                        0x000000010119ae2c chromedriver + 4173356
+9   chromedriver                        0x000000010117bf84 chromedriver + 4046724
+10  chromedriver                        0x000000010119b718 chromedriver + 4175640
+11  chromedriver                        0x000000010116ef44 chromedriver + 3993412
+12  chromedriver                        0x00000001011b91a8 chromedriver + 4297128
+13  chromedriver                        0x00000001011b9324 chromedriver + 4297508
+14  chromedriver                        0x00000001011c6f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####서울강빛초등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104edea0c chromedriver + 4385292
+1   chromedriver                        0x0000000104ed7318 chromedriver + 4354840
+2   chromedriver                        0x0000000104af4b0c chromedriver + 281356
+3   chromedriver                        0x0000000104b372f8 chromedriver + 553720
+4   chromedriver                        0x0000000104b6fd24 chromedriver + 785700
+5   chromedriver                        0x0000000104b2beec chromedriver + 507628
+6   chromedriver                        0x0000000104b2c8c4 chromedriver + 510148
+7   chromedriver                        0x0000000104ea63c8 chromedriver + 4154312
+8   chromedriver                        0x0000000104eaae2c chromedriver + 4173356
+9   chromedriver                        0x0000000104e8bf84 chromedriver + 4046724
+10  chromedriver                        0x0000000104eab718 chromedriver + 4175640
+11  chromedriver                        0x0000000104e7ef44 chromedriver + 3993412
+12  chromedriver                        0x0000000104ec91a8 chromedriver + 4297128
+13  chromedriver                        0x0000000104ec9324 chromedriver + 4297508
+14  chromedriver                        0x0000000104ed6f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####풍성중학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104806a0c chromedriver + 4385292
+1   chromedriver                        0x00000001047ff318 chromedriver + 4354840
+2   chromedriver                        0x000000010441cb0c chromedriver + 281356
+3   chromedriver                        0x000000010445f2f8 chromedriver + 553720
+4   chromedriver                        0x0000000104497d24 chromedriver + 785700
+5   chromedriver                        0x0000000104453eec chromedriver + 507628
+6   chromedriver                        0x00000001044548c4 chromedriver + 510148
+7   chromedriver                        0x00000001047ce3c8 chromedriver + 4154312
+8   chromedriver                        0x00000001047d2e2c chromedriver + 4173356
+9   chromedriver                        0x00000001047b3f84 chromedriver + 4046724
+10  chromedriver                        0x00000001047d3718 chromedriver + 4175640
+11  chromedriver                        0x00000001047a6f44 chromedriver + 3993412
+12  chromedriver                        0x00000001047f11a8 chromedriver + 4297128
+13  chromedriver                        0x00000001047f1324 chromedriver + 4297508
+14  chromedriver                        0x00000001047fef10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+
+#####성덕여자중학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div/div[1]/p/a"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001031c2a0c chromedriver + 4385292
+1   chromedriver                        0x00000001031bb318 chromedriver + 4354840
+2   chromedriver                        0x0000000102dd8b0c chromedriver + 281356
+3   chromedriver                        0x0000000102e1b2f8 chromedriver + 553720
+4   chromedriver                        0x0000000102e53d24 chromedriver + 785700
+5   chromedriver                        0x0000000102e0feec chromedriver + 507628
+6   chromedriver                        0x0000000102e108c4 chromedriver + 510148
+7   chromedriver                        0x000000010318a3c8 chromedriver + 4154312
+8   chromedriver                        0x000000010318ee2c chromedriver + 4173356
+9   chromedriver                        0x000000010316ff84 chromedriver + 4046724
+10  chromedriver                        0x000000010318f718 chromedriver + 4175640
+11  chromedriver                        0x0000000103162f44 chromedriver + 3993412
+12  chromedriver                        0x00000001031ad1a8 chromedriver + 4297128
+13  chromedriver                        0x00000001031ad324 chromedriver + 4297508
+14  chromedriver                        0x00000001031baf10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####서울천동초등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102ac2a0c chromedriver + 4385292
+1   chromedriver                        0x0000000102abb318 chromedriver + 4354840
+2   chromedriver                        0x00000001026d8b0c chromedriver + 281356
+3   chromedriver                        0x000000010271b2f8 chromedriver + 553720
+4   chromedriver                        0x0000000102753d24 chromedriver + 785700
+5   chromedriver                        0x000000010270feec chromedriver + 507628
+6   chromedriver                        0x00000001027108c4 chromedriver + 510148
+7   chromedriver                        0x0000000102a8a3c8 chromedriver + 4154312
+8   chromedriver                        0x0000000102a8ee2c chromedriver + 4173356
+9   chromedriver                        0x0000000102a6ff84 chromedriver + 4046724
+10  chromedriver                        0x0000000102a8f718 chromedriver + 4175640
+11  chromedriver                        0x0000000102a62f44 chromedriver + 3993412
+12  chromedriver                        0x0000000102aad1a8 chromedriver + 4297128
+13  chromedriver                        0x0000000102aad324 chromedriver + 4297508
+14  chromedriver                        0x0000000102abaf10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####서울위례초등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100ffea0c chromedriver + 4385292
+1   chromedriver                        0x0000000100ff7318 chromedriver + 4354840
+2   chromedriver                        0x0000000100c14b0c chromedriver + 281356
+3   chromedriver                        0x0000000100c572f8 chromedriver + 553720
+4   chromedriver                        0x0000000100c8fd24 chromedriver + 785700
+5   chromedriver                        0x0000000100c4beec chromedriver + 507628
+6   chromedriver                        0x0000000100c4c8c4 chromedriver + 510148
+7   chromedriver                        0x0000000100fc63c8 chromedriver + 4154312
+8   chromedriver                        0x0000000100fcae2c chromedriver + 4173356
+9   chromedriver                        0x0000000100fabf84 chromedriver + 4046724
+10  chromedriver                        0x0000000100fcb718 chromedriver + 4175640
+11  chromedriver                        0x0000000100f9ef44 chromedriver + 3993412
+12  chromedriver                        0x0000000100fe91a8 chromedriver + 4297128
+13  chromedriver                        0x0000000100fe9324 chromedriver + 4297508
+14  chromedriver                        0x0000000100ff6f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####솔샘중학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010481ea0c chromedriver + 4385292
+1   chromedriver                        0x0000000104817318 chromedriver + 4354840
+2   chromedriver                        0x0000000104434b0c chromedriver + 281356
+3   chromedriver                        0x00000001044772f8 chromedriver + 553720
+4   chromedriver                        0x00000001044afd24 chromedriver + 785700
+5   chromedriver                        0x000000010446beec chromedriver + 507628
+6   chromedriver                        0x000000010446c8c4 chromedriver + 510148
+7   chromedriver                        0x00000001047e63c8 chromedriver + 4154312
+8   chromedriver                        0x00000001047eae2c chromedriver + 4173356
+9   chromedriver                        0x00000001047cbf84 chromedriver + 4046724
+10  chromedriver                        0x00000001047eb718 chromedriver + 4175640
+11  chromedriver                        0x00000001047bef44 chromedriver + 3993412
+12  chromedriver                        0x00000001048091a8 chromedriver + 4297128
+13  chromedriver                        0x0000000104809324 chromedriver + 4297508
+14  chromedriver                        0x0000000104816f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####서울대학교사범대학부설중학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010519aa0c chromedriver + 4385292
+1   chromedriver                        0x0000000105193318 chromedriver + 4354840
+2   chromedriver                        0x0000000104db0b0c chromedriver + 281356
+3   chromedriver                        0x0000000104df32f8 chromedriver + 553720
+4   chromedriver                        0x0000000104e2bd24 chromedriver + 785700
+5   chromedriver                        0x0000000104de7eec chromedriver + 507628
+6   chromedriver                        0x0000000104de88c4 chromedriver + 510148
+7   chromedriver                        0x00000001051623c8 chromedriver + 4154312
+8   chromedriver                        0x0000000105166e2c chromedriver + 4173356
+9   chromedriver                        0x0000000105147f84 chromedriver + 4046724
+10  chromedriver                        0x0000000105167718 chromedriver + 4175640
+11  chromedriver                        0x000000010513af44 chromedriver + 3993412
+12  chromedriver                        0x00000001051851a8 chromedriver + 4297128
+13  chromedriver                        0x0000000105185324 chromedriver + 4297508
+14  chromedriver                        0x0000000105192f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####신일중학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div/div[1]/p/a"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000103112a0c chromedriver + 4385292
+1   chromedriver                        0x000000010310b318 chromedriver + 4354840
+2   chromedriver                        0x0000000102d28b0c chromedriver + 281356
+3   chromedriver                        0x0000000102d6b2f8 chromedriver + 553720
+4   chromedriver                        0x0000000102da3d24 chromedriver + 785700
+5   chromedriver                        0x0000000102d5feec chromedriver + 507628
+6   chromedriver                        0x0000000102d608c4 chromedriver + 510148
+7   chromedriver                        0x00000001030da3c8 chromedriver + 4154312
+8   chromedriver                        0x00000001030dee2c chromedriver + 4173356
+9   chromedriver                        0x00000001030bff84 chromedriver + 4046724
+10  chromedriver                        0x00000001030df718 chromedriver + 4175640
+11  chromedriver                        0x00000001030b2f44 chromedriver + 3993412
+12  chromedriver                        0x00000001030fd1a8 chromedriver + 4297128
+13  chromedriver                        0x00000001030fd324 chromedriver + 4297508
+14  chromedriver                        0x000000010310af10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####우촌초등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div/div[1]/p/a"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100942a0c chromedriver + 4385292
+1   chromedriver                        0x000000010093b318 chromedriver + 4354840
+2   chromedriver                        0x0000000100558b0c chromedriver + 281356
+3   chromedriver                        0x000000010059b2f8 chromedriver + 553720
+4   chromedriver                        0x00000001005d3d24 chromedriver + 785700
+5   chromedriver                        0x000000010058feec chromedriver + 507628
+6   chromedriver                        0x00000001005908c4 chromedriver + 510148
+7   chromedriver                        0x000000010090a3c8 chromedriver + 4154312
+8   chromedriver                        0x000000010090ee2c chromedriver + 4173356
+9   chromedriver                        0x00000001008eff84 chromedriver + 4046724
+10  chromedriver                        0x000000010090f718 chromedriver + 4175640
+11  chromedriver                        0x00000001008e2f44 chromedriver + 3993412
+12  chromedriver                        0x000000010092d1a8 chromedriver + 4297128
+13  chromedriver                        0x000000010092d324 chromedriver + 4297508
+14  chromedriver                        0x000000010093af10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####서울송천초등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104e96a0c chromedriver + 4385292
+1   chromedriver                        0x0000000104e8f318 chromedriver + 4354840
+2   chromedriver                        0x0000000104aacb0c chromedriver + 281356
+3   chromedriver                        0x0000000104aef2f8 chromedriver + 553720
+4   chromedriver                        0x0000000104b27d24 chromedriver + 785700
+5   chromedriver                        0x0000000104ae3eec chromedriver + 507628
+6   chromedriver                        0x0000000104ae48c4 chromedriver + 510148
+7   chromedriver                        0x0000000104e5e3c8 chromedriver + 4154312
+8   chromedriver                        0x0000000104e62e2c chromedriver + 4173356
+9   chromedriver                        0x0000000104e43f84 chromedriver + 4046724
+10  chromedriver                        0x0000000104e63718 chromedriver + 4175640
+11  chromedriver                        0x0000000104e36f44 chromedriver + 3993412
+12  chromedriver                        0x0000000104e811a8 chromedriver + 4297128
+13  chromedriver                        0x0000000104e81324 chromedriver + 4297508
+14  chromedriver                        0x0000000104e8ef10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####서울개현초등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104ea6a0c chromedriver + 4385292
+1   chromedriver                        0x0000000104e9f318 chromedriver + 4354840
+2   chromedriver                        0x0000000104abcb0c chromedriver + 281356
+3   chromedriver                        0x0000000104aff2f8 chromedriver + 553720
+4   chromedriver                        0x0000000104b37d24 chromedriver + 785700
+5   chromedriver                        0x0000000104af3eec chromedriver + 507628
+6   chromedriver                        0x0000000104af48c4 chromedriver + 510148
+7   chromedriver                        0x0000000104e6e3c8 chromedriver + 4154312
+8   chromedriver                        0x0000000104e72e2c chromedriver + 4173356
+9   chromedriver                        0x0000000104e53f84 chromedriver + 4046724
+10  chromedriver                        0x0000000104e73718 chromedriver + 4175640
+11  chromedriver                        0x0000000104e46f44 chromedriver + 3993412
+12  chromedriver                        0x0000000104e911a8 chromedriver + 4297128
+13  chromedriver                        0x0000000104e91324 chromedriver + 4297508
+14  chromedriver                        0x0000000104e9ef10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####서울우솔초등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100902a0c chromedriver + 4385292
+1   chromedriver                        0x00000001008fb318 chromedriver + 4354840
+2   chromedriver                        0x0000000100518b0c chromedriver + 281356
+3   chromedriver                        0x000000010055b2f8 chromedriver + 553720
+4   chromedriver                        0x0000000100593d24 chromedriver + 785700
+5   chromedriver                        0x000000010054feec chromedriver + 507628
+6   chromedriver                        0x00000001005508c4 chromedriver + 510148
+7   chromedriver                        0x00000001008ca3c8 chromedriver + 4154312
+8   chromedriver                        0x00000001008cee2c chromedriver + 4173356
+9   chromedriver                        0x00000001008aff84 chromedriver + 4046724
+10  chromedriver                        0x00000001008cf718 chromedriver + 4175640
+11  chromedriver                        0x00000001008a2f44 chromedriver + 3993412
+12  chromedriver                        0x00000001008ed1a8 chromedriver + 4297128
+13  chromedriver                        0x00000001008ed324 chromedriver + 4297508
+14  chromedriver                        0x00000001008faf10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####세화여자중학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100a82a0c chromedriver + 4385292
+1   chromedriver                        0x0000000100a7b318 chromedriver + 4354840
+2   chromedriver                        0x0000000100698b0c chromedriver + 281356
+3   chromedriver                        0x00000001006db2f8 chromedriver + 553720
+4   chromedriver                        0x0000000100713d24 chromedriver + 785700
+5   chromedriver                        0x00000001006cfeec chromedriver + 507628
+6   chromedriver                        0x00000001006d08c4 chromedriver + 510148
+7   chromedriver                        0x0000000100a4a3c8 chromedriver + 4154312
+8   chromedriver                        0x0000000100a4ee2c chromedriver + 4173356
+9   chromedriver                        0x0000000100a2ff84 chromedriver + 4046724
+10  chromedriver                        0x0000000100a4f718 chromedriver + 4175640
+11  chromedriver                        0x0000000100a22f44 chromedriver + 3993412
+12  chromedriver                        0x0000000100a6d1a8 chromedriver + 4297128
+13  chromedriver                        0x0000000100a6d324 chromedriver + 4297508
+14  chromedriver                        0x0000000100a7af10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####서울원명초등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010248ea0c chromedriver + 4385292
+1   chromedriver                        0x0000000102487318 chromedriver + 4354840
+2   chromedriver                        0x00000001020a4b0c chromedriver + 281356
+3   chromedriver                        0x00000001020e72f8 chromedriver + 553720
+4   chromedriver                        0x000000010211fd24 chromedriver + 785700
+5   chromedriver                        0x00000001020dbeec chromedriver + 507628
+6   chromedriver                        0x00000001020dc8c4 chromedriver + 510148
+7   chromedriver                        0x00000001024563c8 chromedriver + 4154312
+8   chromedriver                        0x000000010245ae2c chromedriver + 4173356
+9   chromedriver                        0x000000010243bf84 chromedriver + 4046724
+10  chromedriver                        0x000000010245b718 chromedriver + 4175640
+11  chromedriver                        0x000000010242ef44 chromedriver + 3993412
+12  chromedriver                        0x00000001024791a8 chromedriver + 4297128
+13  chromedriver                        0x0000000102479324 chromedriver + 4297508
+14  chromedriver                        0x0000000102486f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####서울왕북초등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100f46a0c chromedriver + 4385292
+1   chromedriver                        0x0000000100f3f318 chromedriver + 4354840
+2   chromedriver                        0x0000000100b5cb0c chromedriver + 281356
+3   chromedriver                        0x0000000100b9f2f8 chromedriver + 553720
+4   chromedriver                        0x0000000100bd7d24 chromedriver + 785700
+5   chromedriver                        0x0000000100b93eec chromedriver + 507628
+6   chromedriver                        0x0000000100b948c4 chromedriver + 510148
+7   chromedriver                        0x0000000100f0e3c8 chromedriver + 4154312
+8   chromedriver                        0x0000000100f12e2c chromedriver + 4173356
+9   chromedriver                        0x0000000100ef3f84 chromedriver + 4046724
+10  chromedriver                        0x0000000100f13718 chromedriver + 4175640
+11  chromedriver                        0x0000000100ee6f44 chromedriver + 3993412
+12  chromedriver                        0x0000000100f311a8 chromedriver + 4297128
+13  chromedriver                        0x0000000100f31324 chromedriver + 4297508
+14  chromedriver                        0x0000000100f3ef10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####서울영희초등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100b26a0c chromedriver + 4385292
+1   chromedriver                        0x0000000100b1f318 chromedriver + 4354840
+2   chromedriver                        0x000000010073cb0c chromedriver + 281356
+3   chromedriver                        0x000000010077f2f8 chromedriver + 553720
+4   chromedriver                        0x00000001007b7d24 chromedriver + 785700
+5   chromedriver                        0x0000000100773eec chromedriver + 507628
+6   chromedriver                        0x00000001007748c4 chromedriver + 510148
+7   chromedriver                        0x0000000100aee3c8 chromedriver + 4154312
+8   chromedriver                        0x0000000100af2e2c chromedriver + 4173356
+9   chromedriver                        0x0000000100ad3f84 chromedriver + 4046724
+10  chromedriver                        0x0000000100af3718 chromedriver + 4175640
+11  chromedriver                        0x0000000100ac6f44 chromedriver + 3993412
+12  chromedriver                        0x0000000100b111a8 chromedriver + 4297128
+13  chromedriver                        0x0000000100b11324 chromedriver + 4297508
+14  chromedriver                        0x0000000100b1ef10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####서울양재초등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100c2aa0c chromedriver + 4385292
+1   chromedriver                        0x0000000100c23318 chromedriver + 4354840
+2   chromedriver                        0x0000000100840b0c chromedriver + 281356
+3   chromedriver                        0x00000001008832f8 chromedriver + 553720
+4   chromedriver                        0x00000001008bbd24 chromedriver + 785700
+5   chromedriver                        0x0000000100877eec chromedriver + 507628
+6   chromedriver                        0x00000001008788c4 chromedriver + 510148
+7   chromedriver                        0x0000000100bf23c8 chromedriver + 4154312
+8   chromedriver                        0x0000000100bf6e2c chromedriver + 4173356
+9   chromedriver                        0x0000000100bd7f84 chromedriver + 4046724
+10  chromedriver                        0x0000000100bf7718 chromedriver + 4175640
+11  chromedriver                        0x0000000100bcaf44 chromedriver + 3993412
+12  chromedriver                        0x0000000100c151a8 chromedriver + 4297128
+13  chromedriver                        0x0000000100c15324 chromedriver + 4297508
+14  chromedriver                        0x0000000100c22f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####여명학교(중) --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div/div[1]/p/a"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010503ea0c chromedriver + 4385292
+1   chromedriver                        0x0000000105037318 chromedriver + 4354840
+2   chromedriver                        0x0000000104c54b0c chromedriver + 281356
+3   chromedriver                        0x0000000104c972f8 chromedriver + 553720
+4   chromedriver                        0x0000000104ccfd24 chromedriver + 785700
+5   chromedriver                        0x0000000104c8beec chromedriver + 507628
+6   chromedriver                        0x0000000104c8c8c4 chromedriver + 510148
+7   chromedriver                        0x00000001050063c8 chromedriver + 4154312
+8   chromedriver                        0x000000010500ae2c chromedriver + 4173356
+9   chromedriver                        0x0000000104febf84 chromedriver + 4046724
+10  chromedriver                        0x000000010500b718 chromedriver + 4175640
+11  chromedriver                        0x0000000104fdef44 chromedriver + 3993412
+12  chromedriver                        0x00000001050291a8 chromedriver + 4297128
+13  chromedriver                        0x0000000105029324 chromedriver + 4297508
+14  chromedriver                        0x0000000105036f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####창덕여자중학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000101072a0c chromedriver + 4385292
+1   chromedriver                        0x000000010106b318 chromedriver + 4354840
+2   chromedriver                        0x0000000100c88b0c chromedriver + 281356
+3   chromedriver                        0x0000000100ccb2f8 chromedriver + 553720
+4   chromedriver                        0x0000000100d03d24 chromedriver + 785700
+5   chromedriver                        0x0000000100cbfeec chromedriver + 507628
+6   chromedriver                        0x0000000100cc08c4 chromedriver + 510148
+7   chromedriver                        0x000000010103a3c8 chromedriver + 4154312
+8   chromedriver                        0x000000010103ee2c chromedriver + 4173356
+9   chromedriver                        0x000000010101ff84 chromedriver + 4046724
+10  chromedriver                        0x000000010103f718 chromedriver + 4175640
+11  chromedriver                        0x0000000101012f44 chromedriver + 3993412
+12  chromedriver                        0x000000010105d1a8 chromedriver + 4297128
+13  chromedriver                        0x000000010105d324 chromedriver + 4297508
+14  chromedriver                        0x000000010106af10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####예원학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[2]/div/div[2]/ul/li[14]/a"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102bfaa0c chromedriver + 4385292
+1   chromedriver                        0x0000000102bf3318 chromedriver + 4354840
+2   chromedriver                        0x0000000102810b0c chromedriver + 281356
+3   chromedriver                        0x00000001028532f8 chromedriver + 553720
+4   chromedriver                        0x000000010288bd24 chromedriver + 785700
+5   chromedriver                        0x0000000102847eec chromedriver + 507628
+6   chromedriver                        0x00000001028488c4 chromedriver + 510148
+7   chromedriver                        0x0000000102bc23c8 chromedriver + 4154312
+8   chromedriver                        0x0000000102bc6e2c chromedriver + 4173356
+9   chromedriver                        0x0000000102ba7f84 chromedriver + 4046724
+10  chromedriver                        0x0000000102bc7718 chromedriver + 4175640
+11  chromedriver                        0x0000000102b9af44 chromedriver + 3993412
+12  chromedriver                        0x0000000102be51a8 chromedriver + 4297128
+13  chromedriver                        0x0000000102be5324 chromedriver + 4297508
+14  chromedriver                        0x0000000102bf2f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####덕수중학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100a0ea0c chromedriver + 4385292
+1   chromedriver                        0x0000000100a07318 chromedriver + 4354840
+2   chromedriver                        0x0000000100624b0c chromedriver + 281356
+3   chromedriver                        0x00000001006672f8 chromedriver + 553720
+4   chromedriver                        0x000000010069fd24 chromedriver + 785700
+5   chromedriver                        0x000000010065beec chromedriver + 507628
+6   chromedriver                        0x000000010065c8c4 chromedriver + 510148
+7   chromedriver                        0x00000001009d63c8 chromedriver + 4154312
+8   chromedriver                        0x00000001009dae2c chromedriver + 4173356
+9   chromedriver                        0x00000001009bbf84 chromedriver + 4046724
+10  chromedriver                        0x00000001009db718 chromedriver + 4175640
+11  chromedriver                        0x00000001009aef44 chromedriver + 3993412
+12  chromedriver                        0x00000001009f91a8 chromedriver + 4297128
+13  chromedriver                        0x00000001009f9324 chromedriver + 4297508
+14  chromedriver                        0x0000000100a06f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####서울흥인초등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104b5ea0c chromedriver + 4385292
+1   chromedriver                        0x0000000104b57318 chromedriver + 4354840
+2   chromedriver                        0x0000000104774b0c chromedriver + 281356
+3   chromedriver                        0x00000001047b72f8 chromedriver + 553720
+4   chromedriver                        0x00000001047efd24 chromedriver + 785700
+5   chromedriver                        0x00000001047abeec chromedriver + 507628
+6   chromedriver                        0x00000001047ac8c4 chromedriver + 510148
+7   chromedriver                        0x0000000104b263c8 chromedriver + 4154312
+8   chromedriver                        0x0000000104b2ae2c chromedriver + 4173356
+9   chromedriver                        0x0000000104b0bf84 chromedriver + 4046724
+10  chromedriver                        0x0000000104b2b718 chromedriver + 4175640
+11  chromedriver                        0x0000000104afef44 chromedriver + 3993412
+12  chromedriver                        0x0000000104b491a8 chromedriver + 4297128
+13  chromedriver                        0x0000000104b49324 chromedriver + 4297508
+14  chromedriver                        0x0000000104b56f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####서울장충초등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102c42a0c chromedriver + 4385292
+1   chromedriver                        0x0000000102c3b318 chromedriver + 4354840
+2   chromedriver                        0x0000000102858b0c chromedriver + 281356
+3   chromedriver                        0x000000010289b2f8 chromedriver + 553720
+4   chromedriver                        0x00000001028d3d24 chromedriver + 785700
+5   chromedriver                        0x000000010288feec chromedriver + 507628
+6   chromedriver                        0x00000001028908c4 chromedriver + 510148
+7   chromedriver                        0x0000000102c0a3c8 chromedriver + 4154312
+8   chromedriver                        0x0000000102c0ee2c chromedriver + 4173356
+9   chromedriver                        0x0000000102beff84 chromedriver + 4046724
+10  chromedriver                        0x0000000102c0f718 chromedriver + 4175640
+11  chromedriver                        0x0000000102be2f44 chromedriver + 3993412
+12  chromedriver                        0x0000000102c2d1a8 chromedriver + 4297128
+13  chromedriver                        0x0000000102c2d324 chromedriver + 4297508
+14  chromedriver                        0x0000000102c3af10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####서울신당초등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100c7aa0c chromedriver + 4385292
+1   chromedriver                        0x0000000100c73318 chromedriver + 4354840
+2   chromedriver                        0x0000000100890b0c chromedriver + 281356
+3   chromedriver                        0x00000001008d32f8 chromedriver + 553720
+4   chromedriver                        0x000000010090bd24 chromedriver + 785700
+5   chromedriver                        0x00000001008c7eec chromedriver + 507628
+6   chromedriver                        0x00000001008c88c4 chromedriver + 510148
+7   chromedriver                        0x0000000100c423c8 chromedriver + 4154312
+8   chromedriver                        0x0000000100c46e2c chromedriver + 4173356
+9   chromedriver                        0x0000000100c27f84 chromedriver + 4046724
+10  chromedriver                        0x0000000100c47718 chromedriver + 4175640
+11  chromedriver                        0x0000000100c1af44 chromedriver + 3993412
+12  chromedriver                        0x0000000100c651a8 chromedriver + 4297128
+13  chromedriver                        0x0000000100c65324 chromedriver + 4297508
+14  chromedriver                        0x0000000100c72f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####솔샘고등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104772a0c chromedriver + 4385292
+1   chromedriver                        0x000000010476b318 chromedriver + 4354840
+2   chromedriver                        0x0000000104388b0c chromedriver + 281356
+3   chromedriver                        0x00000001043cb2f8 chromedriver + 553720
+4   chromedriver                        0x0000000104403d24 chromedriver + 785700
+5   chromedriver                        0x00000001043bfeec chromedriver + 507628
+6   chromedriver                        0x00000001043c08c4 chromedriver + 510148
+7   chromedriver                        0x000000010473a3c8 chromedriver + 4154312
+8   chromedriver                        0x000000010473ee2c chromedriver + 4173356
+9   chromedriver                        0x000000010471ff84 chromedriver + 4046724
+10  chromedriver                        0x000000010473f718 chromedriver + 4175640
+11  chromedriver                        0x0000000104712f44 chromedriver + 3993412
+12  chromedriver                        0x000000010475d1a8 chromedriver + 4297128
+13  chromedriver                        0x000000010475d324 chromedriver + 4297508
+14  chromedriver                        0x000000010476af10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####솔샘고등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102c6ea0c chromedriver + 4385292
+1   chromedriver                        0x0000000102c67318 chromedriver + 4354840
+2   chromedriver                        0x0000000102884b0c chromedriver + 281356
+3   chromedriver                        0x00000001028c72f8 chromedriver + 553720
+4   chromedriver                        0x00000001028ffd24 chromedriver + 785700
+5   chromedriver                        0x00000001028bbeec chromedriver + 507628
+6   chromedriver                        0x00000001028bc8c4 chromedriver + 510148
+7   chromedriver                        0x0000000102c363c8 chromedriver + 4154312
+8   chromedriver                        0x0000000102c3ae2c chromedriver + 4173356
+9   chromedriver                        0x0000000102c1bf84 chromedriver + 4046724
+10  chromedriver                        0x0000000102c3b718 chromedriver + 4175640
+11  chromedriver                        0x0000000102c0ef44 chromedriver + 3993412
+12  chromedriver                        0x0000000102c591a8 chromedriver + 4297128
+13  chromedriver                        0x0000000102c59324 chromedriver + 4297508
+14  chromedriver                        0x0000000102c66f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####솔샘고등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100bf6a0c chromedriver + 4385292
+1   chromedriver                        0x0000000100bef318 chromedriver + 4354840
+2   chromedriver                        0x000000010080cb0c chromedriver + 281356
+3   chromedriver                        0x000000010084f2f8 chromedriver + 553720
+4   chromedriver                        0x0000000100887d24 chromedriver + 785700
+5   chromedriver                        0x0000000100843eec chromedriver + 507628
+6   chromedriver                        0x00000001008448c4 chromedriver + 510148
+7   chromedriver                        0x0000000100bbe3c8 chromedriver + 4154312
+8   chromedriver                        0x0000000100bc2e2c chromedriver + 4173356
+9   chromedriver                        0x0000000100ba3f84 chromedriver + 4046724
+10  chromedriver                        0x0000000100bc3718 chromedriver + 4175640
+11  chromedriver                        0x0000000100b96f44 chromedriver + 3993412
+12  chromedriver                        0x0000000100be11a8 chromedriver + 4297128
+13  chromedriver                        0x0000000100be1324 chromedriver + 4297508
+14  chromedriver                        0x0000000100beef10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####솔샘고등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001004cea0c chromedriver + 4385292
+1   chromedriver                        0x00000001004c7318 chromedriver + 4354840
+2   chromedriver                        0x00000001000e4b0c chromedriver + 281356
+3   chromedriver                        0x00000001001272f8 chromedriver + 553720
+4   chromedriver                        0x000000010015fd24 chromedriver + 785700
+5   chromedriver                        0x000000010011beec chromedriver + 507628
+6   chromedriver                        0x000000010011c8c4 chromedriver + 510148
+7   chromedriver                        0x00000001004963c8 chromedriver + 4154312
+8   chromedriver                        0x000000010049ae2c chromedriver + 4173356
+9   chromedriver                        0x000000010047bf84 chromedriver + 4046724
+10  chromedriver                        0x000000010049b718 chromedriver + 4175640
+11  chromedriver                        0x000000010046ef44 chromedriver + 3993412
+12  chromedriver                        0x00000001004b91a8 chromedriver + 4297128
+13  chromedriver                        0x00000001004b9324 chromedriver + 4297508
+14  chromedriver                        0x00000001004c6f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####한국육영학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100fbaa0c chromedriver + 4385292
+1   chromedriver                        0x0000000100fb3318 chromedriver + 4354840
+2   chromedriver                        0x0000000100bd0b0c chromedriver + 281356
+3   chromedriver                        0x0000000100c132f8 chromedriver + 553720
+4   chromedriver                        0x0000000100c4bd24 chromedriver + 785700
+5   chromedriver                        0x0000000100c07eec chromedriver + 507628
+6   chromedriver                        0x0000000100c088c4 chromedriver + 510148
+7   chromedriver                        0x0000000100f823c8 chromedriver + 4154312
+8   chromedriver                        0x0000000100f86e2c chromedriver + 4173356
+9   chromedriver                        0x0000000100f67f84 chromedriver + 4046724
+10  chromedriver                        0x0000000100f87718 chromedriver + 4175640
+11  chromedriver                        0x0000000100f5af44 chromedriver + 3993412
+12  chromedriver                        0x0000000100fa51a8 chromedriver + 4297128
+13  chromedriver                        0x0000000100fa5324 chromedriver + 4297508
+14  chromedriver                        0x0000000100fb2f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####꿈타래학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div/div[1]/p/a"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000101056a0c chromedriver + 4385292
+1   chromedriver                        0x000000010104f318 chromedriver + 4354840
+2   chromedriver                        0x0000000100c6cb0c chromedriver + 281356
+3   chromedriver                        0x0000000100caf2f8 chromedriver + 553720
+4   chromedriver                        0x0000000100ce7d24 chromedriver + 785700
+5   chromedriver                        0x0000000100ca3eec chromedriver + 507628
+6   chromedriver                        0x0000000100ca48c4 chromedriver + 510148
+7   chromedriver                        0x000000010101e3c8 chromedriver + 4154312
+8   chromedriver                        0x0000000101022e2c chromedriver + 4173356
+9   chromedriver                        0x0000000101003f84 chromedriver + 4046724
+10  chromedriver                        0x0000000101023718 chromedriver + 4175640
+11  chromedriver                        0x0000000100ff6f44 chromedriver + 3993412
+12  chromedriver                        0x00000001010411a8 chromedriver + 4297128
+13  chromedriver                        0x0000000101041324 chromedriver + 4297508
+14  chromedriver                        0x000000010104ef10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####동국대학교사범대학부속여자고등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001053fea0c chromedriver + 4385292
+1   chromedriver                        0x00000001053f7318 chromedriver + 4354840
+2   chromedriver                        0x0000000105014b0c chromedriver + 281356
+3   chromedriver                        0x00000001050572f8 chromedriver + 553720
+4   chromedriver                        0x000000010508fd24 chromedriver + 785700
+5   chromedriver                        0x000000010504beec chromedriver + 507628
+6   chromedriver                        0x000000010504c8c4 chromedriver + 510148
+7   chromedriver                        0x00000001053c63c8 chromedriver + 4154312
+8   chromedriver                        0x00000001053cae2c chromedriver + 4173356
+9   chromedriver                        0x00000001053abf84 chromedriver + 4046724
+10  chromedriver                        0x00000001053cb718 chromedriver + 4175640
+11  chromedriver                        0x000000010539ef44 chromedriver + 3993412
+12  chromedriver                        0x00000001053e91a8 chromedriver + 4297128
+13  chromedriver                        0x00000001053e9324 chromedriver + 4297508
+14  chromedriver                        0x00000001053f6f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####누리학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010526ea0c chromedriver + 4385292
+1   chromedriver                        0x0000000105267318 chromedriver + 4354840
+2   chromedriver                        0x0000000104e84b0c chromedriver + 281356
+3   chromedriver                        0x0000000104ec72f8 chromedriver + 553720
+4   chromedriver                        0x0000000104effd24 chromedriver + 785700
+5   chromedriver                        0x0000000104ebbeec chromedriver + 507628
+6   chromedriver                        0x0000000104ebc8c4 chromedriver + 510148
+7   chromedriver                        0x00000001052363c8 chromedriver + 4154312
+8   chromedriver                        0x000000010523ae2c chromedriver + 4173356
+9   chromedriver                        0x000000010521bf84 chromedriver + 4046724
+10  chromedriver                        0x000000010523b718 chromedriver + 4175640
+11  chromedriver                        0x000000010520ef44 chromedriver + 3993412
+12  chromedriver                        0x00000001052591a8 chromedriver + 4297128
+13  chromedriver                        0x0000000105259324 chromedriver + 4297508
+14  chromedriver                        0x0000000105266f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####한국켄트외국인학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div/div[1]/p/a"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100b7ea0c chromedriver + 4385292
+1   chromedriver                        0x0000000100b77318 chromedriver + 4354840
+2   chromedriver                        0x0000000100794b0c chromedriver + 281356
+3   chromedriver                        0x00000001007d72f8 chromedriver + 553720
+4   chromedriver                        0x000000010080fd24 chromedriver + 785700
+5   chromedriver                        0x00000001007cbeec chromedriver + 507628
+6   chromedriver                        0x00000001007cc8c4 chromedriver + 510148
+7   chromedriver                        0x0000000100b463c8 chromedriver + 4154312
+8   chromedriver                        0x0000000100b4ae2c chromedriver + 4173356
+9   chromedriver                        0x0000000100b2bf84 chromedriver + 4046724
+10  chromedriver                        0x0000000100b4b718 chromedriver + 4175640
+11  chromedriver                        0x0000000100b1ef44 chromedriver + 3993412
+12  chromedriver                        0x0000000100b691a8 chromedriver + 4297128
+13  chromedriver                        0x0000000100b69324 chromedriver + 4297508
+14  chromedriver                        0x0000000100b76f10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018397ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018397ada0 thread_start + 8
+
+#####성암국제무역고등학교 --- Message: Service /Users/admin/.wdm/drivers/chromedriver/mac64/126.0.6478.182/chromedriver-mac-arm64/chromedriver unexpectedly exited. Status code was: -9
+
+#####영등포고등학교부설방송통신고등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[3]/div[4]/form/div/div[2]/div/div/table/tbody/tr[4]/td[1]/input"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001044a2a0c chromedriver + 4385292
+1   chromedriver                        0x000000010449b318 chromedriver + 4354840
+2   chromedriver                        0x00000001040b8b0c chromedriver + 281356
+3   chromedriver                        0x00000001040fb2f8 chromedriver + 553720
+4   chromedriver                        0x0000000104133d24 chromedriver + 785700
+5   chromedriver                        0x00000001040efeec chromedriver + 507628
+6   chromedriver                        0x00000001040f08c4 chromedriver + 510148
+7   chromedriver                        0x000000010446a3c8 chromedriver + 4154312
+8   chromedriver                        0x000000010446ee2c chromedriver + 4173356
+9   chromedriver                        0x000000010444ff84 chromedriver + 4046724
+10  chromedriver                        0x000000010446f718 chromedriver + 4175640
+11  chromedriver                        0x0000000104442f44 chromedriver + 3993412
+12  chromedriver                        0x000000010448d1a8 chromedriver + 4297128
+13  chromedriver                        0x000000010448d324 chromedriver + 4297508
+14  chromedriver                        0x000000010449af10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x0000000188a1ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x0000000188a1ada0 thread_start + 8
+
+#####서울방송고등학교 --- Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div/div[1]/p/a"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100ff6a0c chromedriver + 4385292
+1   chromedriver                        0x0000000100fef318 chromedriver + 4354840
+2   chromedriver                        0x0000000100c0cb0c chromedriver + 281356
+3   chromedriver                        0x0000000100c4f2f8 chromedriver + 553720
+4   chromedriver                        0x0000000100c87d24 chromedriver + 785700
+5   chromedriver                        0x0000000100c43eec chromedriver + 507628
+6   chromedriver                        0x0000000100c448c4 chromedriver + 510148
+7   chromedriver                        0x0000000100fbe3c8 chromedriver + 4154312
+8   chromedriver                        0x0000000100fc2e2c chromedriver + 4173356
+9   chromedriver                        0x0000000100fa3f84 chromedriver + 4046724
+10  chromedriver                        0x0000000100fc3718 chromedriver + 4175640
+11  chromedriver                        0x0000000100f96f44 chromedriver + 3993412
+12  chromedriver                        0x0000000100fe11a8 chromedriver + 4297128
+13  chromedriver                        0x0000000100fe1324 chromedriver + 4297508
+14  chromedriver                        0x0000000100feef10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x0000000188a1ffa8 _pthread_start + 148
+16  libsystem_pthread.dylib             0x0000000188a1ada0 thread_start + 8
+
